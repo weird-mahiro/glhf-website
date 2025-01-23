@@ -42,7 +42,7 @@ const config = {
   banner: [
     {
       text: "",
-      image: "/images/headerbanner.jpg",
+      image: "/images/banner-1.jpg",
     },
     {
       text: "GLHF",
