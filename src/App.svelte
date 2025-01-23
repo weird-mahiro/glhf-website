@@ -13,7 +13,6 @@
 <Toaster position="bottom-center" />
 
 <div class="relative">
-  <NavBar />
   <Banner1 />
   <InformationTemplate
     titleRed={config.section[0].titleRed}

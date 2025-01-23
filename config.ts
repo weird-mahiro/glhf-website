@@ -26,22 +26,23 @@ const config = {
       titleRed: "ABOUT",
       titleBlue: "US",
       details: [
-        "Tired of shady crypto projects and vanishing devs? Enter Titty Coin ($TITTY)—a token with a purpose, a story, and one of the most passionate communities on the Solana blockchain. $TITTY began as a wild ride: the original dev sold off and abandoned the project, but instead of giving up, the community rallied together, bonded the token, and took control. Now, with transparent wallets and a no-nonsense admin team, $TITTY is paving the way for a fresh, trustworthy crypto experience.",
-        "Our tokenomics are simple yet solid: 1 billion total supply, 0% buy/sell tax, and liquidity locked from the start. The mint authority is revoked to ensure trust, and every decision is driven by the community—no more shady deals behind closed doors. This is a project built by the people, for the people.",
+        "GLHF is a CTO (Community Takeover) project by gamers, for gamers, dedicated to fostering sportsmanship, healthy competition, and financial empowerment in gaming. Our mission is to bring back an era where brotherhood, sportsmanship, and achievement define gaming, creating a future filled with awesome memories. Together, we’re uniting gamers and transforming the gaming world—both in play and in financial success 💰.",
       ],
     },
     {
-      titleRed: "SOME",
-      titleBlue: "TEXT",
+      titleRed: "Our",
+      titleBlue: "Vision",
       details: [
-        "Imagine a world where memes meet innovation, and every transaction feels like a high-five from the crypto gods. That’s $TITTY—a token where humor fuels the engine, community drives the car, and moonshot dreams are the destination. It’s like walking into a virtual comedy club, except the punchlines are profits, and the audience is a global squad of crypto degenerates who just get it. Here, the vibes are immaculate, the jokes are relentless, and the only thing we take seriously is building something unforgettable. Ready to laugh, earn, and vibe your way to the top? Let’s go.",
+        "We’re seizing the opportunity presented by the crypto world to rally gamers around a coin that has the power to change gaming forever. GLHF is more than a meme coin—it’s a movement to reward content creation, celebrate gaming skills, and foster a genuine community built by gamers, for gamers—not for big corporations or shrewd investors.",
+        "For too long, the gaming scene has been dominated by corporate interests and ideologues, steering it away from the values that made gaming great. We're taking it back, restoring the focus to brotherhood, sportsmanship, and achievement.",
+        "A robust pipeline is already in motion to deliver the ultimate gaming and crypto experience—a platform that truly serves the gaming community. Together, we’re working to bring the spotlight back to the gamers who make this space incredible. It’s time to Make Gaming Great Again.",
       ],
     },
   ],
   banner: [
     {
       text: "",
-      image: "/images/banner-1.png",
+      image: "/images/headerbanner.jpg",
     },
     {
       text: "GLHF",
@@ -54,9 +55,9 @@ const config = {
   ],
   footer: {
     shortParagraph: {
-      title: "Disclaimer",
+      title: "Disclaims",
       details:
-        "$GLHF is a story coin with no intrinsic value. Do not risk money you are afraid of losing. The price may go up or it may go down. We are not responsible for the price of the token.",
+        "$GLHF is a crypto meme coin with no intrinsic value. Its price is highly volatile, and you could lose your entire investment. We are not responsible for any financial losses. Do not buy $GLHF if you’re afraid of losing money or are looking for guaranteed returns. Always do your own research and invest responsibly.",
     },
   },
 };
