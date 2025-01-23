@@ -9,7 +9,7 @@ const config = {
     {
       type: "Telegram",
       logoUrl: "/telegram.svg",
-      url: "https://t.me/+jk-ndxMRVtMzYjU1",
+      url: "https://t.me/GLHFCHAD",
     },
     {
       type: "Twitter",
